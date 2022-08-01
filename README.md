@@ -4,6 +4,7 @@
 - Generates a user defined ammount of random latitude & longitude coordinates
 - The closest city near coordinates is added to dictionary
 - User inputs preffered temperature range and code pulls cities that fit criteria
+
 ![image](https://user-images.githubusercontent.com/107438816/182092269-78a77853-5cd2-492b-b489-2b0b3acda384.png)
 
 - Hotels in defined cities are pulled and added to dictionary
