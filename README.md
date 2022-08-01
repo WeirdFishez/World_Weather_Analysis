@@ -8,9 +8,9 @@
 
 - Hotels in defined cities are pulled and added to dictionary
 - Plot google maps fig with cities and info-box sumamry
-- 
+
 ![image](https://user-images.githubusercontent.com/107438816/182091916-5fd76837-77d7-48ad-8185-5e60de48f219.png)
 
 - Seperate script generates an itinerary with directions to 4 selected cities
-- 
+
 ![image](https://user-images.githubusercontent.com/107438816/182091753-ad5dc1fa-9f85-42c4-b19f-81e565a1d2e5.png)
