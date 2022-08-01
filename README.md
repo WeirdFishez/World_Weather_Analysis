@@ -7,9 +7,12 @@
 ![image](https://user-images.githubusercontent.com/107438816/182092269-78a77853-5cd2-492b-b489-2b0b3acda384.png)
 
 - Hotels in defined cities are pulled and added to dictionary
-- Plot google maps fig with cities and info-box sumamry
 
 ![image](https://user-images.githubusercontent.com/107438816/182091916-5fd76837-77d7-48ad-8185-5e60de48f219.png)
+
+- Plot google maps fig with cities and info-box sumamry
+
+![image](https://user-images.githubusercontent.com/107438816/182092518-56717a9b-31f9-4a8d-be94-27a16d81e011.png)
 
 - Seperate script generates an itinerary with directions to 4 selected cities
 
